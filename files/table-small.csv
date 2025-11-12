@@ -1,0 +1,1001 @@
+﻿Изолят,Вид организма,Пол,Age Group,AgeYears,Weight,Height,Speciality
+1000000,Pseudomonas aeruginosa,Мужской,85 and Over,85,89,199,Emergency Room
+1000001,Pseudomonas aeruginosa,Female,13 to 18 Years,16,54,165,Emergency Room
+1000002,Pseudomonas aeruginosa,Female,65 to 84 Years,69,89,188,Nursing Home / Rehab
+1000003,Pseudomonas aeruginosa,Male,19 to 64 Years,36,100,154,Medicine General
+1000004,Serratia marcescens,Male,19 to 64 Years,47,89,173,Medicine General
+1000005,Acinetobacter pitii,Male,19 to 64 Years,41,101,160,Medicine ICU
+1000006,Serratia marcescens,Female,19 to 64 Years,35,47,186,Medicine ICU
+1000007,Acinetobacter baumannii,Male,65 to 84 Years,73,94,194,Medicine ICU
+1000008,Pseudomonas aeruginosa,Female,65 to 84 Years,77,55,164,Nursing Home / Rehab
+1000009,Pseudomonas aeruginosa,Female,65 to 84 Years,70,111,199,Medicine ICU
+1000010,Enterobacter cloacae,Female,65 to 84 Years,84,75,190,Surgery General
+1000011,Pseudomonas aeruginosa,Male,65 to 84 Years,65,76,152,Surgery General
+1000012,Escherichia coli,Female,85 and Over,94,57,183,Medicine General
+1000013,Haemophilus influenzae,Male,19 to 64 Years,20,64,171,Medicine ICU
+1000014,Haemophilus influenzae,Жен,19 to 64 Years,44,94,169,Medicine General
+1000015,Haemophilus influenzae,Male,19 to 64 Years,20,50,161,Medicine General
+1000016,Haemophilus influenzae,Male,19 to 64 Years,30,96,181,Medicine General
+1000017,Staphylococcus aureus,Жен,65 to 84 Years,82,45,172,Surgery General
+1000020,Haemophilus influenzae,Male,65 to 84 Years,71,47,182,Medicine General
+1000021,Haemophilus influenzae,Ж,19 to 64 Years,38,78,176,Medicine ICU
+1000022,Haemophilus influenzae,Женский,19 to 64 Years,44,68,160,Emergency Room
+1000023,Haemophilus influenzae,Женский,19 to 64 Years,29,113,167,None Given
+1000024,Enterococcus faecium,Male,19 to 64 Years,26,51,177,Medicine ICU
+1000025,Enterococcus faecalis,Female,19 to 64 Years,50,80,186,Emergency Room
+1000026,Enterococcus faecalis,Female,65 to 84 Years,70,100,189,Nursing Home / Rehab
+1000027,Streptococcus agalactiae,Female,,,,,Pediatric General
+1000028,Streptococcus agalactiae,Female,19 to 64 Years,46,106,170,Emergency Room
+1000029,Staphylococcus aureus,Мужской,65 to 84 Years,68,109,183,Medicine ICU
+1000030,Staphylococcus aureus,Female,85 and Over,94,69,169,Medicine General
+1000031,Pseudomonas aeruginosa,Female,19 to 64 Years,39,94,189,Emergency Room
+1000032,Klebsiella pneumoniae,Female,65 to 84 Years,80,76,189,Nursing Home / Rehab
+1000033,Enterobacter cloacae,Male,65 to 84 Years,78,76,166,Medicine General
+1000034,Klebsiella (Enterobacter) aerogenes,Female,19 to 64 Years,58,113,188,Medicine General
+1000035,Acinetobacter junii,Male,65 to 84 Years,75,56,188,Medicine General
+1000036,Pseudomonas aeruginosa,мужской,19 to 64 Years,41,54,164,Emergency Room
+1000037,Pseudomonas aeruginosa,мужской,65 to 84 Years,71,98,199,Medicine General
+1000038,Klebsiella pneumoniae,мужской,0 to 2 Years,2,12,77,Pediatric ICU
+1000039,Staphylococcus aureus,Female,13 to 18 Years,14,66,163,Pediatric General
+1000040,Streptococcus agalactiae,Female,19 to 64 Years,43,89,200,None Given
+1000041,Streptococcus agalactiae,Female,19 to 64 Years,52,108,159,None Given
+1000042,Streptococcus agalactiae,Female,19 to 64 Years,37,55,177,None Given
+1000043,Streptococcus agalactiae,Female,19 to 64 Years,57,96,190,None Given
+1000044,Streptococcus agalactiae,Male,19 to 64 Years,27,112,189,Medicine General
+1000045,Streptococcus agalactiae,Female,19 to 64 Years,20,67,194,None Given
+1000046,Streptococcus agalactiae,Female,19 to 64 Years,26,52,193,None Given
+1000047,Streptococcus agalactiae,Female,19 to 64 Years,38,90,185,None Given
+1000048,Pseudomonas aeruginosa,Male,85 and Over,95,96,174,Medicine General
+1000049,Pseudomonas aeruginosa,Male,65 to 84 Years,80,102,197,Nursing Home / Rehab
+1000050,Pseudomonas aeruginosa,,19 to 64 Years,40,94,186,Surgery General
+1000051,Pseudomonas aeruginosa,Male,19 to 64 Years,31,87,196,Emergency Room
+1000052,Pseudomonas aeruginosa,Female,85 and Over,86,120,176,Nursing Home / Rehab
+1000053,Pseudomonas aeruginosa,Female,65 to 84 Years,83,63,182,Medicine General
+1000054,Klebsiella pneumoniae,Female,85 and Over,94,118,177,Medicine General
+1000055,Klebsiella pneumoniae,Female,19 to 64 Years,56,85,170,Medicine General
+1000056,Klebsiella pneumoniae,Male,65 to 84 Years,65,57,176,Surgery General
+1000057,Klebsiella oxytoca,Female,19 to 64 Years,38,85,190,None Given
+1000058,Klebsiella pneumoniae,Female,13 to 18 Years,14,53,169,Pediatric General
+1000059,Enterococcus faecium,Female,65 to 84 Years,75,78,152,Surgery General
+1000060,Enterococcus faecium,Female,19 to 64 Years,54,105,199,Medicine General
+1000061,Enterococcus faecalis,Female,65 to 84 Years,83,119,169,Surgery General
+1000062,Enterococcus faecalis,Male,19 to 64 Years,48,102,182,Emergency Room
+1000063,Staphylococcus aureus,Male,19 to 64 Years,62,51,154,Medicine General
+1000064,Staphylococcus aureus,Female,3 to 12 Years,5,35,99,Pediatric General
+1000065,Staphylococcus aureus,Female,19 to 64 Years,24,93,154,Emergency Room
+1000066,Staphylococcus aureus,Male,65 to 84 Years,66,92,155,Emergency Room
+1000067,Staphylococcus aureus,Female,85 and Over,95,60,182,Medicine General
+1000068,Enterobacter cloacae,Male,65 to 84 Years,68,105,172,Medicine ICU
+1000069,Klebsiella pneumoniae,Male,19 to 64 Years,53,84,161,Medicine General
+1000070,Enterococcus faecalis,Male,65 to 84 Years,83,110,174,Emergency Room
+1000071,Enterococcus faecalis,Female,85 and Over,93,112,174,Nursing Home / Rehab
+1000072,Klebsiella (Enterobacter) aerogenes,Female,19 to 64 Years,24,115,194,Emergency Room
+1000073,Staphylococcus aureus,Male,19 to 64 Years,37,82,198,Nursing Home / Rehab
+1000074,Staphylococcus aureus,Female,0 to 2 Years,2,12,87,Emergency Room
+1000075,Enterobacter cloacae,Male,65 to 84 Years,79,70,156,Nursing Home / Rehab
+1000076,Enterobacter cloacae,Female,65 to 84 Years,76,119,155,Medicine General
+1000077,Klebsiella pneumoniae,Male,65 to 84 Years,66,74,194,Surgery General
+1000078,Enterobacter kobei,Female,0 to 2 Years,2,11,89,Medicine ICU
+1000079,Haemophilus influenzae,Female,19 to 64 Years,57,78,186,Emergency Room
+1000080,Streptococcus agalactiae,Female,19 to 64 Years,32,116,174,Medicine General
+1000081,Enterococcus faecalis,Male,19 to 64 Years,28,60,166,Emergency Room
+1000082,Staphylococcus aureus,Male,19 to 64 Years,35,72,176,Clinic / Office
+1000083,Staphylococcus aureus,Male,85 and Over,93,78,192,Clinic / Office
+1000084,Haemophilus influenzae,Male,0 to 2 Years,1,12,89,None Given
+1000085,Streptococcus pneumoniae,Female,3 to 12 Years,9,21,112,Pediatric General
+1000086,Streptococcus pneumoniae,Female,85 and Over,94,110,190,Medicine General
+1000087,Streptococcus pneumoniae,Female,65 to 84 Years,79,99,155,Emergency Room
+1000088,Streptococcus pneumoniae,Male,19 to 64 Years,53,95,186,Medicine ICU
+1000090,Streptococcus pneumoniae,Male,19 to 64 Years,30,72,161,Medicine General
+1000091,Streptococcus pneumoniae,Female,19 to 64 Years,49,75,185,Medicine ICU
+1000092,Streptococcus pneumoniae,Female,65 to 84 Years,70,82,197,Emergency Room
+1000093,Streptococcus pneumoniae,Female,0 to 2 Years,2,10,80,Emergency Room
+1000095,Haemophilus influenzae,Female,19 to 64 Years,46,119,186,Emergency Room
+1000096,Serratia marcescens,Male,65 to 84 Years,76,120,169,Medicine ICU
+1000097,Serratia marcescens,Female,85 and Over,93,98,185,Nursing Home / Rehab
+1000098,Serratia marcescens,Male,65 to 84 Years,72,107,165,Medicine General
+1000099,"Acinetobacter, non-speciated",Female,65 to 84 Years,68,72,152,Medicine ICU
+1000100,"Acinetobacter, non-speciated",Male,19 to 64 Years,49,72,162,Medicine General
+1000101,"Acinetobacter, non-speciated",Female,13 to 18 Years,17,64,161,Pediatric General
+1000102,"Acinetobacter, non-speciated",Male,0 to 2 Years,1,10,83,Pediatric General
+1000103,Klebsiella (Enterobacter) aerogenes,Male,0 to 2 Years,2,13,77,Pediatric General
+1000104,Enterobacter cloacae,Female,19 to 64 Years,52,76,184,Surgery General
+1000106,Enterobacter cloacae,Male,19 to 64 Years,22,99,155,Medicine ICU
+1000107,Haemophilus influenzae,Female,3 to 12 Years,6,28,147,Pediatric General
+1000108,Haemophilus influenzae,Male,65 to 84 Years,73,46,181,Medicine General
+1000109,Acinetobacter lwoffii,Male,65 to 84 Years,84,112,167,Medicine General
+1000110,Serratia marcescens,Female,85 and Over,95,83,167,Nursing Home / Rehab
+1000111,Haemophilus influenzae,Female,65 to 84 Years,79,70,168,Medicine General
+1000112,Acinetobacter baumannii,Female,19 to 64 Years,30,110,194,Surgery General
+1000113,Serratia marcescens,Male,65 to 84 Years,70,97,169,Medicine General
+1000114,Streptococcus pneumoniae,Male,0 to 2 Years,2,12,90,Pediatric General
+1000116,Streptococcus pneumoniae,Male,19 to 64 Years,31,119,161,Medicine General
+1000118,Haemophilus influenzae,Male,65 to 84 Years,69,94,167,Medicine ICU
+1000119,Acinetobacter baumannii,Male,19 to 64 Years,63,51,178,Medicine ICU
+1000162,Staphylococcus aureus,Female,65 to 84 Years,78,62,174,Emergency Room
+1000163,Staphylococcus aureus,Male,19 to 64 Years,44,73,159,Medicine General
+1000164,Staphylococcus aureus,Male,85 and Over,87,53,184,Clinic / Office
+1000165,Staphylococcus aureus,Female,19 to 64 Years,38,97,193,Clinic / Office
+1000166,Staphylococcus aureus,,3 to 12 Years,4,42,101,Clinic / Office
+1000167,Staphylococcus aureus,Male,19 to 64 Years,47,74,185,Clinic / Office
+1000168,Staphylococcus aureus,,19 to 64 Years,34,94,162,Clinic / Office
+1000169,Staphylococcus aureus,Male,65 to 84 Years,82,76,181,Clinic / Office
+1000170,Staphylococcus aureus,Male,65 to 84 Years,76,112,173,Medicine ICU
+1000171,Staphylococcus aureus,Male,19 to 64 Years,42,51,189,Clinic / Office
+1000172,Staphylococcus aureus,Female,0 to 2 Years,1,13,85,Surgery General
+1000174,Staphylococcus aureus,Male,65 to 84 Years,79,103,172,Emergency Room
+1000175,Staphylococcus aureus,Female,65 to 84 Years,80,94,157,Clinic / Office
+1000176,Staphylococcus aureus,Female,65 to 84 Years,67,69,161,Clinic / Office
+1000177,Staphylococcus aureus,Male,85 and Over,93,98,196,Clinic / Office
+1000178,Staphylococcus aureus,Female,19 to 64 Years,53,103,170,Clinic / Office
+1000179,Serratia liquefaciens,Female,65 to 84 Years,75,101,184,Clinic / Office
+1000180,Staphylococcus aureus,Female,65 to 84 Years,68,59,160,Clinic / Office
+1000181,Staphylococcus aureus,Male,65 to 84 Years,77,80,152,Clinic / Office
+1000182,Staphylococcus aureus,Female,85 and Over,85,90,185,Clinic / Office
+1000183,Staphylococcus aureus,Male,0 to 2 Years,2,13,77,Clinic / Office
+1000184,Staphylococcus aureus,Female,0 to 2 Years,1,10,78,Surgery General
+1000185,Staphylococcus aureus,Male,19 to 64 Years,48,48,166,Clinic / Office
+1000186,Staphylococcus aureus,Male,19 to 64 Years,58,109,154,Clinic / Office
+1000187,Haemophilus influenzae,Male,65 to 84 Years,66,86,193,Emergency Room
+1000190,Haemophilus influenzae,Male,3 to 12 Years,5,30,100,Clinic / Office
+1000193,Haemophilus influenzae,Female,19 to 64 Years,27,89,153,Clinic / Office
+1000194,Haemophilus influenzae,Male,0 to 2 Years,2,10,77,Clinic / Office
+1000195,Haemophilus influenzae,Female,19 to 64 Years,27,55,165,Clinic / Office
+1000196,Haemophilus influenzae,Male,3 to 12 Years,4,34,122,Clinic / Office
+1000197,Haemophilus influenzae,Female,19 to 64 Years,36,66,165,Clinic / Office
+1000200,Haemophilus influenzae,Female,19 to 64 Years,33,119,176,Clinic / Office
+1000202,Serratia marcescens,Female,85 and Over,85,45,169,Clinic / Office
+1000203,Serratia marcescens,Female,65 to 84 Years,67,57,194,Surgery General
+1000204,Serratia marcescens,Female,65 to 84 Years,84,106,180,Clinic / Office
+1000205,Serratia liquefaciens,Male,65 to 84 Years,82,111,172,Surgery General
+1000206,Serratia marcescens,Male,0 to 2 Years,1,12,85,Clinic / Office
+1000207,Serratia marcescens,Male,65 to 84 Years,83,73,184,Clinic / Office
+1000208,Serratia marcescens,Female,85 and Over,87,53,172,Clinic / Office
+1000209,Serratia marcescens,Male,85 and Over,89,84,189,Medicine General
+1000210,Serratia marcescens,Female,65 to 84 Years,78,55,157,Clinic / Office
+1000211,Serratia marcescens,Female,65 to 84 Years,65,96,161,Clinic / Office
+1000212,Pseudomonas aeruginosa,Male,85 and Over,90,94,186,Medicine General
+1000213,Pseudomonas aeruginosa,Male,19 to 64 Years,62,119,183,Clinic / Office
+1000214,Pseudomonas aeruginosa,Female,85 and Over,92,64,186,Medicine General
+1000215,Pseudomonas aeruginosa,Male,85 and Over,85,118,171,Clinic / Office
+1000216,Pseudomonas aeruginosa,Female,85 and Over,90,114,170,Clinic / Office
+1000217,Pseudomonas aeruginosa,Male,65 to 84 Years,72,55,190,Clinic / Office
+1000218,Pseudomonas aeruginosa,Male,19 to 64 Years,55,120,172,Emergency Room
+1000219,Pseudomonas aeruginosa,Female,65 to 84 Years,72,91,182,Clinic / Office
+1000220,Pseudomonas aeruginosa,Male,0 to 2 Years,1,13,81,Clinic / Office
+1000221,Pseudomonas aeruginosa,Male,85 and Over,87,76,151,Medicine General
+1000222,Pseudomonas aeruginosa,Male,85 and Over,95,101,175,Emergency Room
+1000223,Pseudomonas aeruginosa,Male,85 and Over,85,74,164,Clinic / Office
+1000224,Pseudomonas aeruginosa,Male,65 to 84 Years,80,92,196,Clinic / Office
+1000225,Pseudomonas aeruginosa,Male,85 and Over,94,68,169,Clinic / Office
+1000226,Pseudomonas aeruginosa,Male,65 to 84 Years,74,107,158,Clinic / Office
+1000227,Pseudomonas aeruginosa,Male,85 and Over,89,68,164,Medicine General
+1000228,Pseudomonas aeruginosa,Male,65 to 84 Years,74,90,151,Surgery General
+1000229,Pseudomonas aeruginosa,Female,85 and Over,88,66,194,Medicine General
+1000230,Pseudomonas aeruginosa,Male,65 to 84 Years,74,79,181,Clinic / Office
+1000231,Pseudomonas aeruginosa,Male,19 to 64 Years,56,68,194,Clinic / Office
+1000232,Streptococcus agalactiae,Male,19 to 64 Years,23,74,174,Clinic / Office
+1000233,Enterococcus faecalis,Male,19 to 64 Years,33,45,199,Clinic / Office
+1000234,Enterococcus faecalis,Female,19 to 64 Years,38,112,188,Clinic / Office
+1000235,Enterococcus faecalis,Female,65 to 84 Years,70,118,187,Clinic / Office
+1000236,Enterococcus faecalis,Female,65 to 84 Years,75,100,164,Emergency Room
+1000237,Streptococcus agalactiae,Male,65 to 84 Years,69,104,178,Clinic / Office
+1000238,Streptococcus agalactiae,Male,19 to 64 Years,52,71,166,Clinic / Office
+1000239,Streptococcus agalactiae,Female,19 to 64 Years,44,73,170,Clinic / Office
+1000240,Streptococcus agalactiae,Female,65 to 84 Years,74,108,161,Clinic / Office
+1000241,Streptococcus agalactiae,Female,65 to 84 Years,74,65,172,Clinic / Office
+1000242,Klebsiella (Enterobacter) aerogenes,Female,65 to 84 Years,65,71,150,Clinic / Office
+1000243,Enterobacter cloacae,Male,19 to 64 Years,45,77,176,Clinic / Office
+1000244,Enterobacter asburiae,Female,65 to 84 Years,79,99,195,Medicine General
+1000245,Enterobacter cloacae,Male,65 to 84 Years,67,94,167,Clinic / Office
+1000246,Enterobacter cloacae,Female,85 and Over,87,48,177,Surgery General
+1000247,Klebsiella (Enterobacter) aerogenes,Female,85 and Over,91,49,155,Clinic / Office
+1000248,Enterobacter cloacae,Female,85 and Over,94,61,183,Medicine General
+1000249,Enterobacter cloacae,Female,85 and Over,89,99,192,Clinic / Office
+1000250,Enterobacter asburiae,Male,65 to 84 Years,84,99,163,Medicine General
+1000251,Enterobacter kobei,Male,19 to 64 Years,23,118,198,Surgery General
+1000252,Enterobacter kobei,Female,19 to 64 Years,24,45,160,Clinic / Office
+1000253,Enterobacter kobei,Female,85 and Over,85,68,170,Clinic / Office
+1000254,Enterobacter cloacae,Male,65 to 84 Years,75,80,186,Clinic / Office
+1000256,Enterobacter cloacae,Male,19 to 64 Years,42,94,189,Clinic / Office
+1000257,Klebsiella (Enterobacter) aerogenes,Female,19 to 64 Years,40,99,155,Clinic / Office
+1000258,Enterobacter kobei,Male,65 to 84 Years,73,109,184,Medicine General
+1000259,Enterobacter cloacae,Female,85 and Over,91,120,197,Clinic / Office
+1000260,Klebsiella (Enterobacter) aerogenes,Male,85 and Over,89,77,165,Medicine General
+1000261,Enterobacter cloacae,Female,65 to 84 Years,65,89,168,Clinic / Office
+1000262,Klebsiella (Enterobacter) aerogenes,Male,65 to 84 Years,67,47,163,Medicine General
+1000263,Enterobacter cloacae,Male,65 to 84 Years,83,87,161,Medicine General
+1000264,Enterobacter cloacae,Female,65 to 84 Years,80,99,184,Medicine General
+1000265,Enterobacter cloacae,Male,85 and Over,94,82,154,Medicine General
+1000266,Enterobacter cloacae,Male,65 to 84 Years,75,109,188,Clinic / Office
+1000267,Enterococcus faecalis,Male,19 to 64 Years,45,84,151,Surgery General
+1000268,Enterococcus faecalis,Female,65 to 84 Years,78,57,166,Clinic / Office
+1000269,Enterococcus faecalis,Male,65 to 84 Years,76,101,185,Medicine General
+1000270,Enterococcus faecalis,Female,85 and Over,89,59,158,Emergency Room
+1000271,Enterococcus faecalis,Female,65 to 84 Years,73,100,155,Emergency Room
+1000272,Enterococcus faecalis,Female,19 to 64 Years,40,99,183,Clinic / Office
+1000273,Enterococcus faecalis,Male,19 to 64 Years,27,101,166,Medicine ICU
+1000274,Enterococcus faecalis,Male,85 and Over,95,82,192,Clinic / Office
+1000276,Enterococcus faecalis,Male,65 to 84 Years,69,62,184,Medicine General
+1000277,Enterococcus faecalis,Male,65 to 84 Years,83,58,156,Medicine General
+1000278,Enterococcus faecalis,Male,65 to 84 Years,70,62,185,Medicine ICU
+1000279,Enterococcus faecium,Female,65 to 84 Years,72,114,180,Medicine General
+1000280,Enterococcus faecalis,Male,3 to 12 Years,12,36,142,Clinic / Office
+1000281,Enterococcus faecalis,Male,65 to 84 Years,78,75,194,Medicine General
+1000282,Enterococcus faecalis,Female,85 and Over,89,111,157,Clinic / Office
+1000283,Klebsiella oxytoca,Male,65 to 84 Years,83,48,191,Medicine ICU
+1000284,Acinetobacter pitii,Male,19 to 64 Years,52,111,197,Medicine General
+1000285,Acinetobacter baumannii,Female,65 to 84 Years,77,93,184,Medicine ICU
+1000286,Acinetobacter baumannii,Male,65 to 84 Years,67,99,166,Medicine ICU
+1000287,Acinetobacter baumannii,Male,65 to 84 Years,65,84,190,Medicine General
+1000288,Acinetobacter baumannii,Female,65 to 84 Years,65,60,192,Medicine General
+1000289,Acinetobacter baumannii,Female,65 to 84 Years,72,73,168,Emergency Room
+1000290,Acinetobacter baumannii,Female,19 to 64 Years,60,85,165,Medicine ICU
+1000291,Acinetobacter baumannii,Female,65 to 84 Years,79,70,153,Medicine ICU
+1000292,Acinetobacter baumannii,Male,19 to 64 Years,23,65,171,Medicine General
+1000293,Acinetobacter baumannii,Male,65 to 84 Years,78,54,169,Medicine ICU
+1000294,Acinetobacter pitii,Female,19 to 64 Years,25,72,167,Emergency Room
+1000295,Acinetobacter baumannii,Male,19 to 64 Years,42,49,170,Medicine General
+1000296,Acinetobacter baumannii,Male,19 to 64 Years,20,109,171,Medicine ICU
+1000297,Acinetobacter baumannii,Female,65 to 84 Years,74,103,151,Clinic / Office
+1000298,Klebsiella pneumoniae,Female,13 to 18 Years,17,46,165,Clinic / Office
+1000299,Klebsiella pneumoniae,Female,65 to 84 Years,80,52,194,Emergency Room
+1000300,Klebsiella pneumoniae,Female,65 to 84 Years,69,69,183,Clinic / Office
+1000301,Klebsiella pneumoniae,Male,19 to 64 Years,20,98,158,Emergency Room
+1000302,Klebsiella oxytoca,Male,0 to 2 Years,2,12,88,Clinic / Office
+1000304,Klebsiella oxytoca,Male,0 to 2 Years,1,11,83,Clinic / Office
+1000305,Klebsiella oxytoca,Female,85 and Over,85,56,173,Clinic / Office
+1000306,Klebsiella pneumoniae,Male,65 to 84 Years,71,64,193,Medicine General
+1000307,Citrobacter freundii,Female,65 to 84 Years,70,96,190,Clinic / Office
+1000308,Escherichia coli,Male,85 and Over,90,87,182,Emergency Room
+1000309,Escherichia coli,Female,85 and Over,85,89,174,Medicine General
+1000310,Escherichia coli,Female,65 to 84 Years,71,55,187,Emergency Room
+1000311,Escherichia coli,Male,65 to 84 Years,67,51,158,Emergency Room
+1000312,Escherichia coli,Female,65 to 84 Years,65,55,159,Emergency Room
+1000313,Escherichia coli,Female,65 to 84 Years,70,107,175,Medicine General
+1000314,Escherichia coli,Male,19 to 64 Years,19,97,170,Medicine ICU
+1000315,Escherichia coli,Female,65 to 84 Years,76,83,168,Emergency Room
+1000316,Escherichia coli,Male,19 to 64 Years,34,96,170,Clinic / Office
+1000317,Escherichia coli,Male,19 to 64 Years,38,98,185,Clinic / Office
+1000318,Escherichia coli,Male,19 to 64 Years,51,98,174,Clinic / Office
+1000319,Escherichia coli,Male,19 to 64 Years,62,50,195,Surgery General
+1000320,Escherichia coli,Male,19 to 64 Years,64,112,181,Clinic / Office
+1000321,Escherichia coli,Female,65 to 84 Years,78,117,153,Clinic / Office
+1000322,Escherichia coli,Female,65 to 84 Years,78,114,150,Medicine General
+1000323,Escherichia coli,Female,65 to 84 Years,65,117,197,Emergency Room
+1000324,Escherichia coli,Female,65 to 84 Years,81,55,185,Emergency Room
+1000325,Escherichia coli,Male,19 to 64 Years,25,113,173,Clinic / Office
+1000326,Escherichia coli,Female,65 to 84 Years,76,116,160,Medicine ICU
+1000327,Escherichia coli,Male,19 to 64 Years,44,88,167,Clinic / Office
+1000329,Escherichia coli,Female,85 and Over,88,76,199,Emergency Room
+1000330,Escherichia coli,Male,85 and Over,94,46,151,Clinic / Office
+1000331,Escherichia coli,Female,65 to 84 Years,73,83,170,Medicine ICU
+1000332,Escherichia coli,Male,65 to 84 Years,74,102,163,Surgery General
+1000334,Klebsiella pneumoniae,Female,65 to 84 Years,76,80,190,Clinic / Office
+1000335,Klebsiella oxytoca,Female,65 to 84 Years,78,95,199,Emergency Room
+1000336,Klebsiella pneumoniae,Female,0 to 2 Years,2,11,90,Clinic / Office
+1000337,Klebsiella pneumoniae,Male,85 and Over,88,91,154,Medicine General
+1000338,Klebsiella pneumoniae,Male,19 to 64 Years,29,108,153,Emergency Room
+1000339,Klebsiella pneumoniae,Male,19 to 64 Years,19,59,192,Medicine General
+1000340,Klebsiella pneumoniae,Female,65 to 84 Years,67,62,160,Emergency Room
+1000341,Klebsiella pneumoniae,Male,65 to 84 Years,75,85,158,Emergency Room
+1000342,Klebsiella pneumoniae,Female,85 and Over,94,82,184,Emergency Room
+1000343,Klebsiella pneumoniae,Male,19 to 64 Years,63,54,185,Emergency Room
+1000345,Klebsiella oxytoca,Male,19 to 64 Years,41,118,150,Medicine General
+1000346,Klebsiella pneumoniae,Female,65 to 84 Years,78,117,155,Emergency Room
+1000349,Streptococcus pneumoniae,Male,0 to 2 Years,2,12,90,Clinic / Office
+1000351,Streptococcus pneumoniae,Male,0 to 2 Years,2,11,79,Clinic / Office
+1000354,Streptococcus pneumoniae,Male,19 to 64 Years,63,117,155,Emergency Room
+1000356,Escherichia coli,Female,19 to 64 Years,28,81,157,Medicine General
+1000357,Streptococcus pneumoniae,Male,19 to 64 Years,47,93,179,Emergency Room
+1000360,Haemophilus influenzae,Male,0 to 2 Years,1,11,81,Clinic / Office
+1000382,Klebsiella oxytoca,Male,19 to 64 Years,52,72,157,Surgery General
+1000383,Klebsiella oxytoca,Female,65 to 84 Years,83,55,184,Medicine General
+1000384,Klebsiella pneumoniae,Male,19 to 64 Years,32,114,192,Medicine General
+1000385,Klebsiella pneumoniae,Male,65 to 84 Years,81,46,152,Medicine General
+1000386,Klebsiella oxytoca,Male,65 to 84 Years,73,96,175,Medicine General
+1000387,Klebsiella pneumoniae,Female,19 to 64 Years,39,67,171,Medicine General
+1000388,Klebsiella oxytoca,Male,19 to 64 Years,51,53,151,Medicine General
+1000389,Klebsiella oxytoca,Female,85 and Over,90,68,186,Medicine ICU
+1000390,Klebsiella oxytoca,Female,65 to 84 Years,79,51,178,Medicine General
+1000391,Klebsiella oxytoca,Male,65 to 84 Years,70,53,176,Medicine General
+1000392,Klebsiella pneumoniae,Male,19 to 64 Years,39,96,197,Medicine ICU
+1000393,Klebsiella oxytoca,Female,19 to 64 Years,26,46,179,Medicine General
+1000394,Klebsiella pneumoniae,Male,85 and Over,95,67,196,Surgery General
+1000395,Klebsiella oxytoca,Male,19 to 64 Years,49,82,197,None Given
+1000396,Klebsiella pneumoniae,Female,65 to 84 Years,66,119,154,Surgery General
+1000397,Klebsiella pneumoniae,Female,19 to 64 Years,42,67,177,Medicine General
+1000398,Klebsiella oxytoca,Male,0 to 2 Years,2,13,89,Medicine General
+1000399,Klebsiella pneumoniae,Female,19 to 64 Years,29,69,188,Emergency Room
+1000400,Klebsiella pneumoniae,Female,19 to 64 Years,58,67,175,None Given
+1000401,Klebsiella pneumoniae,Male,19 to 64 Years,23,51,181,Medicine General
+1000402,Klebsiella pneumoniae,Female,85 and Over,90,86,166,Medicine General
+1000403,Klebsiella oxytoca,Male,0 to 2 Years,1,13,86,None Given
+1000404,Klebsiella pneumoniae,Female,65 to 84 Years,83,76,191,Medicine General
+1000405,Klebsiella pneumoniae,Male,19 to 64 Years,25,111,176,None Given
+1000406,Klebsiella oxytoca,Male,0 to 2 Years,1,11,81,Pediatric General
+1000407,Escherichia coli,Female,19 to 64 Years,50,64,190,Emergency Room
+1000408,Escherichia coli,Male,65 to 84 Years,71,113,172,Surgery General
+1000409,Escherichia coli,Female,65 to 84 Years,84,113,177,Medicine General
+1000410,Escherichia coli,Male,0 to 2 Years,2,12,85,Emergency Room
+1000411,Escherichia coli,Female,19 to 64 Years,52,115,175,None Given
+1000412,Escherichia coli,Female,65 to 84 Years,78,45,195,Surgery General
+1000413,Escherichia coli,Female,85 and Over,85,93,184,Surgery General
+1000414,Escherichia coli,Female,65 to 84 Years,84,113,173,Emergency Room
+1000415,Escherichia coli,Female,19 to 64 Years,24,103,164,Medicine General
+1000416,Escherichia coli,Female,65 to 84 Years,66,67,186,Medicine General
+1000417,Escherichia coli,Female,65 to 84 Years,73,84,194,Emergency Room
+1000418,Escherichia coli,Male,85 and Over,95,85,174,Medicine General
+1000419,Escherichia coli,Female,19 to 64 Years,34,95,182,None Given
+1000420,Escherichia coli,Female,19 to 64 Years,60,119,159,Medicine General
+1000421,Escherichia coli,Male,65 to 84 Years,81,105,164,Surgery General
+1000422,Escherichia coli,Male,19 to 64 Years,28,107,194,Medicine ICU
+1000423,Escherichia coli,Female,19 to 64 Years,63,85,180,Surgery General
+1000424,Escherichia coli,Male,19 to 64 Years,59,118,192,Surgery General
+1000425,Escherichia coli,Female,19 to 64 Years,26,99,174,Surgery General
+1000426,Escherichia coli,Female,85 and Over,86,70,164,Surgery ICU
+1000427,Escherichia coli,Male,65 to 84 Years,80,102,150,Emergency Room
+1000428,Escherichia coli,Female,0 to 2 Years,2,10,90,Surgery General
+1000429,Escherichia coli,Female,65 to 84 Years,68,108,159,Surgery General
+1000430,Escherichia coli,Female,19 to 64 Years,38,111,176,Medicine General
+1000431,Escherichia coli,Female,65 to 84 Years,68,89,200,Medicine General
+1000432,Serratia fonticola,Male,19 to 64 Years,46,94,158,Medicine General
+1000433,Serratia marcescens,Male,65 to 84 Years,73,105,152,Medicine General
+1000434,Serratia marcescens,Male,65 to 84 Years,73,70,191,Surgery General
+1000435,Serratia liquefaciens,Male,0 to 2 Years,1,11,81,Pediatric General
+1000436,Serratia marcescens,Male,85 and Over,86,64,172,Medicine ICU
+1000437,Serratia marcescens,Female,19 to 64 Years,21,82,162,Surgery General
+1000438,Serratia marcescens,Male,65 to 84 Years,79,117,199,Medicine General
+1000439,Serratia marcescens,Male,65 to 84 Years,68,46,161,Medicine General
+1000440,Serratia marcescens,Female,65 to 84 Years,84,109,156,Medicine ICU
+1000441,Serratia rubidaea,Male,19 to 64 Years,58,119,192,Medicine General
+1000442,Haemophilus influenzae,Male,19 to 64 Years,42,62,162,Medicine General
+1000443,Haemophilus influenzae,Male,65 to 84 Years,71,83,185,Surgery General
+1000444,Haemophilus influenzae,Female,19 to 64 Years,57,89,160,Emergency Room
+1000445,Haemophilus influenzae,Female,19 to 64 Years,26,48,170,Medicine General
+1000446,Haemophilus influenzae,Male,19 to 64 Years,30,57,182,Pediatric General
+1000447,Haemophilus influenzae,Female,3 to 12 Years,4,38,133,Medicine General
+1000448,Haemophilus influenzae,Male,65 to 84 Years,68,116,165,Medicine ICU
+1000450,Haemophilus influenzae,Male,19 to 64 Years,59,65,200,Surgery General
+1000452,Haemophilus influenzae,Male,65 to 84 Years,66,74,200,Medicine General
+1000453,Haemophilus influenzae,Male,19 to 64 Years,35,48,153,Emergency Room
+1000454,Haemophilus influenzae,Male,3 to 12 Years,9,42,112,Pediatric General
+1000455,Haemophilus influenzae,Female,65 to 84 Years,76,84,160,Medicine General
+1000456,Haemophilus influenzae,Male,65 to 84 Years,84,70,166,Medicine General
+1000459,Streptococcus pneumoniae,Male,19 to 64 Years,61,71,163,Medicine General
+1000460,Streptococcus pneumoniae,Female,3 to 12 Years,11,18,116,Pediatric General
+1000461,Streptococcus pneumoniae,Female,3 to 12 Years,9,18,118,Pediatric General
+1000462,Streptococcus pneumoniae,,65 to 84 Years,68,66,165,Surgery General
+1000463,Streptococcus pneumoniae,Male,19 to 64 Years,61,109,153,Emergency Room
+1000464,Streptococcus pneumoniae,Male,3 to 12 Years,6,19,102,Surgery General
+1000465,Streptococcus pneumoniae,Male,65 to 84 Years,68,92,200,Medicine General
+1000466,Streptococcus pneumoniae,Male,65 to 84 Years,74,87,191,Medicine General
+1000467,Streptococcus pneumoniae,Female,65 to 84 Years,74,110,192,Emergency Room
+1000469,Streptococcus pneumoniae,Male,65 to 84 Years,67,52,159,Medicine General
+1000471,Streptococcus pneumoniae,Male,19 to 64 Years,54,76,195,None Given
+1000472,Streptococcus agalactiae,Female,19 to 64 Years,34,74,181,None Given
+1000473,Streptococcus agalactiae,Female,19 to 64 Years,24,75,175,None Given
+1000474,Streptococcus agalactiae,Female,19 to 64 Years,46,73,160,Nursing Home / Rehab
+1000475,Streptococcus agalactiae,Female,19 to 64 Years,56,71,160,Nursing Home / Rehab
+1000476,Streptococcus agalactiae,Female,65 to 84 Years,78,106,171,Emergency Room
+1000477,Streptococcus agalactiae,Female,19 to 64 Years,28,101,190,None Given
+1000478,Streptococcus agalactiae,Male,19 to 64 Years,39,94,198,Surgery General
+1000479,Streptococcus agalactiae,Male,19 to 64 Years,56,108,170,None Given
+1000480,Streptococcus agalactiae,Male,19 to 64 Years,32,74,182,Surgery General
+1000481,Streptococcus agalactiae,Female,65 to 84 Years,84,58,154,Medicine General
+1000482,Acinetobacter pitii,Male,65 to 84 Years,72,117,192,Surgery General
+1000483,Acinetobacter pitii,Male,65 to 84 Years,80,80,168,Surgery General
+1000484,Acinetobacter pitii,Male,65 to 84 Years,67,98,185,Medicine General
+1000485,Acinetobacter lwoffii,Female,65 to 84 Years,68,72,162,Medicine General
+1000486,Acinetobacter pitii,Female,65 to 84 Years,74,111,190,Surgery General
+1000487,Acinetobacter pitii,Male,19 to 64 Years,21,80,194,Surgery General
+1000489,Acinetobacter lwoffii,Male,0 to 2 Years,2,10,82,Medicine General
+1000490,Acinetobacter schindleri,Male,65 to 84 Years,74,97,198,Medicine General
+1000491,Acinetobacter pitii,Female,19 to 64 Years,25,117,188,Medicine ICU
+1000492,Enterobacter cloacae,Female,65 to 84 Years,73,105,179,Medicine General
+1000493,Enterobacter cloacae,Male,65 to 84 Years,83,113,178,Medicine ICU
+1000494,Enterobacter kobei,,19 to 64 Years,24,90,188,Medicine General
+1000495,Klebsiella (Enterobacter) aerogenes,Male,65 to 84 Years,77,83,162,Medicine ICU
+1000496,Enterobacter cloacae,Male,0 to 2 Years,2,13,84,None Given
+1000497,Enterobacter cloacae,Female,19 to 64 Years,49,90,177,Surgery ICU
+1000498,Klebsiella (Enterobacter) aerogenes,Male,19 to 64 Years,31,45,163,Surgery ICU
+1000499,Enterobacter cloacae,Female,19 to 64 Years,38,75,164,Medicine ICU
+1000500,Klebsiella (Enterobacter) aerogenes,Male,65 to 84 Years,67,110,152,Medicine ICU
+1000501,Enterobacter cloacae,Male,65 to 84 Years,67,48,169,Surgery General
+1000502,Enterobacter cloacae,Male,0 to 2 Years,1,13,80,Pediatric General
+1000503,Enterobacter cloacae,Female,19 to 64 Years,29,100,175,Surgery General
+1000504,Klebsiella (Enterobacter) aerogenes,Female,65 to 84 Years,67,110,185,Medicine General
+1000505,Enterobacter cloacae,Male,65 to 84 Years,79,71,156,Medicine General
+1000506,Enterobacter cloacae,Male,19 to 64 Years,40,73,170,Medicine ICU
+1000507,Klebsiella (Enterobacter) aerogenes,Male,65 to 84 Years,77,105,156,Medicine General
+1000508,Enterobacter cloacae,Male,13 to 18 Years,14,58,164,Medicine ICU
+1000509,Enterobacter cloacae,Male,65 to 84 Years,72,76,194,Emergency Room
+1000510,Enterobacter cloacae,Female,65 to 84 Years,66,113,198,None Given
+1000511,Enterobacter cloacae,Female,0 to 2 Years,1,11,84,None Given
+1000512,Klebsiella (Enterobacter) aerogenes,Female,65 to 84 Years,79,88,162,Medicine ICU
+1000513,Enterobacter cloacae,Male,0 to 2 Years,2,12,86,None Given
+1000514,Enterobacter cloacae,Male,65 to 84 Years,68,47,153,Medicine ICU
+1000515,Klebsiella (Enterobacter) aerogenes,Male,19 to 64 Years,29,60,198,Surgery ICU
+1000516,Pseudomonas aeruginosa,Male,19 to 64 Years,42,104,193,Medicine ICU
+1000517,Pseudomonas aeruginosa,Male,19 to 64 Years,26,105,165,Medicine ICU
+1000518,Pseudomonas aeruginosa,Female,85 and Over,90,91,194,Medicine ICU
+1000519,Pseudomonas aeruginosa,Male,65 to 84 Years,75,112,183,Surgery General
+1000520,Pseudomonas aeruginosa,Male,19 to 64 Years,47,120,187,Medicine General
+1000521,Pseudomonas aeruginosa,Female,19 to 64 Years,54,58,187,Medicine General
+1000522,Pseudomonas aeruginosa,Female,19 to 64 Years,38,71,195,Medicine ICU
+1000523,Pseudomonas aeruginosa,Female,65 to 84 Years,68,91,163,Medicine General
+1000524,Pseudomonas aeruginosa,Male,3 to 12 Years,11,39,122,Pediatric General
+1000525,Pseudomonas aeruginosa,Male,19 to 64 Years,53,115,185,Medicine ICU
+1000526,Pseudomonas aeruginosa,Female,19 to 64 Years,48,67,170,Medicine General
+1000527,Pseudomonas aeruginosa,Female,85 and Over,93,106,200,Medicine General
+1000528,Pseudomonas aeruginosa,Female,19 to 64 Years,56,100,156,Medicine General
+1000529,Pseudomonas aeruginosa,Female,85 and Over,94,105,172,Surgery General
+1000530,Pseudomonas aeruginosa,Female,19 to 64 Years,45,106,173,Medicine General
+1000531,Pseudomonas aeruginosa,Female,19 to 64 Years,51,118,189,Surgery General
+1000532,Pseudomonas aeruginosa,Male,65 to 84 Years,75,110,174,Medicine General
+1000533,Pseudomonas aeruginosa,Male,85 and Over,85,62,153,Emergency Room
+1000534,Pseudomonas aeruginosa,Female,19 to 64 Years,25,53,152,Medicine General
+1000535,Staphylococcus aureus,Male,0 to 2 Years,1,12,80,None Given
+1000536,Staphylococcus aureus,Male,19 to 64 Years,56,78,160,Medicine ICU
+1000537,Staphylococcus aureus,Female,13 to 18 Years,17,46,166,Pediatric General
+1000538,Staphylococcus aureus,Female,19 to 64 Years,61,63,194,Medicine General
+1000539,Staphylococcus aureus,Male,19 to 64 Years,58,109,161,Surgery ICU
+1000540,Staphylococcus aureus,Male,19 to 64 Years,52,61,195,Pediatric General
+1000541,Staphylococcus aureus,Male,0 to 2 Years,1,13,79,None Given
+1000542,Staphylococcus aureus,Female,65 to 84 Years,83,58,176,Surgery General
+1000543,Staphylococcus aureus,Male,65 to 84 Years,83,102,196,Medicine General
+1000544,Staphylococcus aureus,Female,85 and Over,91,52,179,Surgery General
+1000545,Staphylococcus aureus,Female,13 to 18 Years,15,46,158,Medicine General
+1000546,Staphylococcus aureus,Female,19 to 64 Years,36,46,189,Surgery General
+1000547,Staphylococcus aureus,Female,19 to 64 Years,31,119,172,Surgery General
+1000548,Staphylococcus aureus,Male,19 to 64 Years,28,62,188,Emergency Room
+1000549,Staphylococcus aureus,Female,65 to 84 Years,82,70,179,Surgery General
+1000550,Staphylococcus aureus,Female,19 to 64 Years,46,119,184,Medicine General
+1000551,Staphylococcus aureus,Female,0 to 2 Years,1,13,77,Nursing Home / Rehab
+1000552,Staphylococcus aureus,Male,65 to 84 Years,73,101,187,Surgery General
+1000553,Staphylococcus aureus,Male,19 to 64 Years,31,94,196,Emergency Room
+1000554,Staphylococcus aureus,Female,65 to 84 Years,70,71,190,Medicine General
+1000555,Staphylococcus aureus,Male,65 to 84 Years,80,54,191,Surgery General
+1000556,Enterococcus faecium,Female,19 to 64 Years,41,70,154,Medicine ICU
+1000557,Enterococcus faecalis,Male,0 to 2 Years,1,11,78,None Given
+1000558,Enterococcus faecium,Male,19 to 64 Years,49,46,195,Medicine General
+1000559,Enterococcus faecium,Male,19 to 64 Years,33,108,168,Medicine General
+1000560,Enterococcus faecalis,Female,65 to 84 Years,74,111,188,Surgery General
+1000561,Enterococcus faecalis,Male,0 to 2 Years,2,12,83,Pediatric General
+1000562,Enterococcus faecalis,Female,19 to 64 Years,58,53,197,Medicine General
+1000563,Enterococcus faecalis,Female,65 to 84 Years,65,58,158,Medicine General
+1000564,Enterococcus faecium,Female,19 to 64 Years,24,85,159,Medicine ICU
+1000565,Enterococcus faecalis,Male,19 to 64 Years,33,55,173,Medicine General
+1000566,Enterococcus faecalis,Male,0 to 2 Years,1,11,81,None Given
+1000567,Enterococcus faecalis,Female,85 and Over,86,67,188,Surgery ICU
+1000568,Enterococcus faecalis,Female,85 and Over,88,72,189,Surgery General
+1000569,Enterococcus faecalis,Male,19 to 64 Years,57,73,197,Surgery General
+1000570,Acinetobacter guillouiae,Male,19 to 64 Years,43,82,172,Emergency Room
+1000571,Acinetobacter lwoffii,Female,65 to 84 Years,71,81,162,Medicine General
+1000573,Enterococcus faecium,Male,19 to 64 Years,46,56,165,Medicine ICU
+1000574,Enterobacter cloacae,Male,0 to 2 Years,2,11,83,Pediatric General
+1000575,Pseudomonas aeruginosa,Male,3 to 12 Years,3,20,126,Pediatric General
+1000576,Staphylococcus aureus,Male,65 to 84 Years,68,67,178,Medicine General
+1000577,Staphylococcus aureus,Male,19 to 64 Years,52,99,171,Surgery General
+1000578,Staphylococcus aureus,Male,65 to 84 Years,80,82,162,Surgery General
+1000579,Staphylococcus aureus,Female,19 to 64 Years,57,76,188,Medicine General
+1000877,Clostridium perfringens,Male,65 to 84 Years,71,99,177,Medicine ICU
+1000878,Clostridium perfringens,Female,19 to 64 Years,22,70,167,Surgery General
+1000879,Clostridioides (Clostridium) difficile,Male,65 to 84 Years,77,86,196,Medicine ICU
+1000880,Clostridium perfringens,Male,85 and Over,88,50,159,Medicine ICU
+1000881,Clostridium tertium,Female,13 to 18 Years,16,54,162,Medicine General
+1000882,Clostridioides (Clostridium) difficile,Female,85 and Over,91,97,191,Medicine General
+1000883,Clostridium perfringens,Female,65 to 84 Years,71,72,159,Medicine General
+1000884,Clostridium butyricum,Male,19 to 64 Years,53,71,167,Surgery ICU
+1000885,Clostridioides (Clostridium) difficile,Female,85 and Over,91,75,188,Medicine General
+1000887,Clostridioides (Clostridium) difficile,Female,65 to 84 Years,79,74,176,Medicine General
+1000888,Clostridium perfringens,Male,65 to 84 Years,70,67,175,Surgery General
+1000889,Clostridium perfringens,Male,65 to 84 Years,68,61,187,Medicine ICU
+1000890,Clostridium hathewayi,Male,65 to 84 Years,75,109,177,Medicine General
+1000891,Clostridium barati,Male,19 to 64 Years,19,82,192,Emergency Room
+1000892,Clostridioides (Clostridium) difficile,Male,19 to 64 Years,63,48,155,Emergency Room
+1000893,Clostridioides (Clostridium) difficile,Male,65 to 84 Years,71,92,159,None Given
+1000894,Clostridioides (Clostridium) difficile,Male,19 to 64 Years,46,111,155,Emergency Room
+1000895,Clostridioides (Clostridium) difficile,Female,65 to 84 Years,80,104,177,Emergency Room
+1000896,Clostridium perfringens,Male,65 to 84 Years,67,90,155,Surgery General
+1000897,Bacteroides fragilis,Female,19 to 64 Years,53,70,169,Medicine General
+1000898,Parabacteroides distasonis,Male,19 to 64 Years,58,114,158,Surgery General
+1000899,Bacteroides nordii,Male,19 to 64 Years,58,99,161,Surgery General
+1000900,Prevotella denticola,Female,19 to 64 Years,38,96,194,Surgery ICU
+1000901,Bacteroides fragilis,Female,65 to 84 Years,79,63,154,Medicine General
+1000902,Bacteroides vulgatus,Male,65 to 84 Years,83,78,178,Surgery General
+1000903,Bacteroides thetaiotaomicron,Female,19 to 64 Years,42,76,157,Surgery General
+1000904,Bacteroides fragilis,,Unknown,,,,None Given
+1000905,Bacteroides fragilis,Female,19 to 64 Years,52,89,167,Surgery General
+1000906,Bacteroides vulgatus,Male,65 to 84 Years,71,52,168,Medicine General
+1000907,Bacteroides thetaiotaomicron,Male,19 to 64 Years,51,70,193,Emergency Room
+1000908,Bacteroides fragilis,Female,65 to 84 Years,76,69,184,Surgery General
+1000909,Bacteroides fragilis,Female,85 and Over,86,54,166,Medicine General
+1000910,Parabacteroides distasonis,Female,19 to 64 Years,47,62,181,Surgery General
+1000911,Bacteroides uniformis,Female,19 to 64 Years,30,66,183,Surgery General
+1000912,Bacteroides thetaiotaomicron,Male,85 and Over,93,56,172,Medicine General
+1000913,Bacteroides thetaiotaomicron,Male,65 to 84 Years,74,88,196,Medicine ICU
+1000914,Bacteroides uniformis,Female,85 and Over,85,73,174,Medicine General
+1000915,Bacteroides fragilis,Male,65 to 84 Years,73,75,186,Medicine ICU
+1000916,Bacteroides thetaiotaomicron,Female,65 to 84 Years,80,103,179,Surgery General
+1000917,Bacteroides fragilis,Male,85 and Over,93,76,152,Medicine ICU
+1000918,Bacteroides thetaiotaomicron,Male,19 to 64 Years,45,105,191,Surgery General
+1000919,Bacteroides fragilis,Female,19 to 64 Years,41,90,158,Medicine General
+1000920,Bacteroides vulgatus,Male,19 to 64 Years,25,93,196,Medicine ICU
+1000921,Bacteroides thetaiotaomicron,Female,19 to 64 Years,55,55,158,Medicine General
+1000922,Prevotella buccae,Female,85 and Over,92,60,162,Medicine ICU
+1000923,Prevotella oris,Female,19 to 64 Years,34,113,159,Medicine ICU
+1000924,Prevotella oris,,Unknown,,,,None Given
+1000925,Prevotella denticola,Female,19 to 64 Years,20,104,151,Surgery General
+1000926,Prevotella denticola,Male,,,,,Surgery General
+1000927,Prevotella bivia,Female,19 to 64 Years,34,47,190,Medicine General
+1000928,Prevotella oris,Female,19 to 64 Years,53,98,194,Medicine General
+1000929,Prevotella buccae,Female,85 and Over,85,120,154,Medicine ICU
+1000930,Prevotella oris,Male,19 to 64 Years,22,78,185,Surgery General
+1000931,Prevotella oris,,,,,,None Given
+1000932,Prevotella oris,Female,19 to 64 Years,56,96,178,Medicine ICU
+1000933,Prevotella denticola,Male,19 to 64 Years,26,72,159,Surgery General
+1000934,Prevotella buccae,Male,19 to 64 Years,38,73,163,Surgery General
+1000935,Prevotella oris,Female,65 to 84 Years,68,108,198,Medicine ICU
+1000937,Prevotella denticola,Male,65 to 84 Years,73,68,170,Medicine General
+1000938,Peptostreptococcus anaerobius,Female,65 to 84 Years,76,55,171,Surgery General
+1001442,Acinetobacter baumannii,Male,65 to 84 Years,83,111,190,Surgery ICU
+1001443,Acinetobacter baumannii,Male,19 to 64 Years,39,63,180,Surgery ICU
+1001444,Acinetobacter baumannii,Female,19 to 64 Years,26,86,154,Surgery ICU
+1001445,Escherichia coli,,19 to 64 Years,58,65,168,Surgery General
+1001446,Escherichia coli,Male,19 to 64 Years,19,54,155,Surgery ICU
+1001447,Escherichia coli,Male,65 to 84 Years,82,56,187,Emergency Room
+1001448,Escherichia coli,Female,65 to 84 Years,81,93,190,Medicine General
+1001449,Escherichia coli,Female,19 to 64 Years,51,67,192,Medicine General
+1001450,Escherichia coli,Female,19 to 64 Years,19,49,162,Surgery General
+1001451,Escherichia coli,Male,19 to 64 Years,50,102,186,Surgery ICU
+1001452,Escherichia coli,Male,19 to 64 Years,52,99,177,Surgery ICU
+1001453,Escherichia coli,Male,19 to 64 Years,40,85,156,Surgery General
+1001454,Escherichia coli,Male,19 to 64 Years,40,63,200,Medicine General
+1001455,Escherichia coli,Female,65 to 84 Years,71,65,154,Clinic / Office
+1001456,Escherichia coli,Female,19 to 64 Years,24,93,150,Surgery ICU
+1001457,Escherichia coli,Female,19 to 64 Years,37,72,177,Surgery ICU
+1001458,Escherichia coli,Male,65 to 84 Years,75,109,178,Surgery General
+1001459,Klebsiella (Enterobacter) aerogenes,Male,19 to 64 Years,48,58,161,Surgery General
+1001460,Klebsiella (Enterobacter) aerogenes,Male,65 to 84 Years,70,54,152,Medicine General
+1001461,Enterobacter cloacae,Male,65 to 84 Years,80,82,165,Surgery ICU
+1001462,Enterobacter cloacae,Female,19 to 64 Years,57,68,166,Surgery ICU
+1001463,Pseudomonas aeruginosa,Male,19 to 64 Years,38,63,192,Surgery General
+1001464,Pseudomonas aeruginosa,Male,19 to 64 Years,24,86,200,Surgery General
+1001465,Pseudomonas aeruginosa,Female,19 to 64 Years,26,53,153,Medicine General
+1001466,Pseudomonas aeruginosa,Male,19 to 64 Years,26,110,188,Medicine General
+1001467,Pseudomonas aeruginosa,Female,19 to 64 Years,34,48,173,Surgery ICU
+1001468,Pseudomonas aeruginosa,Female,65 to 84 Years,67,91,197,Surgery ICU
+1001469,Klebsiella oxytoca,Female,65 to 84 Years,71,72,173,Medicine ICU
+1001470,Klebsiella pneumoniae,Male,19 to 64 Years,54,95,178,Emergency Room
+1001471,Klebsiella pneumoniae,Male,65 to 84 Years,75,88,162,Surgery General
+1001472,Klebsiella pneumoniae,Female,65 to 84 Years,79,47,171,Surgery General
+1001473,Klebsiella pneumoniae,Female,19 to 64 Years,44,84,165,Clinic / Office
+1001474,Klebsiella pneumoniae,Female,19 to 64 Years,43,87,171,Medicine General
+1001475,Klebsiella pneumoniae,Male,19 to 64 Years,26,47,161,Surgery General
+1001476,Klebsiella pneumoniae,Male,19 to 64 Years,62,98,176,Medicine General
+1001477,Staphylococcus aureus,Female,19 to 64 Years,20,79,155,None Given
+1001478,Staphylococcus aureus,Male,19 to 64 Years,38,119,175,Medicine ICU
+1001479,Staphylococcus aureus,Male,65 to 84 Years,71,96,172,None Given
+1001480,Staphylococcus aureus,Male,19 to 64 Years,48,57,150,Emergency Room
+1001481,Staphylococcus aureus,Male,19 to 64 Years,31,87,193,Medicine ICU
+1001482,Staphylococcus aureus,Female,19 to 64 Years,27,117,187,None Given
+1001483,Staphylococcus aureus,Male,19 to 64 Years,60,55,185,None Given
+1001484,Staphylococcus aureus,Male,65 to 84 Years,76,77,181,Medicine General
+1001485,Staphylococcus aureus,Male,65 to 84 Years,74,45,156,Medicine General
+1001486,Staphylococcus aureus,Male,19 to 64 Years,20,47,173,Medicine ICU
+1001487,Staphylococcus aureus,Male,19 to 64 Years,64,67,197,Surgery General
+1001488,Staphylococcus aureus,Female,0 to 2 Years,1,13,85,Pediatric General
+1001489,Staphylococcus aureus,Female,19 to 64 Years,25,75,155,None Given
+1001490,Staphylococcus aureus,Female,19 to 64 Years,53,60,166,None Given
+1001491,Staphylococcus aureus,Female,19 to 64 Years,42,57,193,None Given
+1001492,Staphylococcus aureus,Female,19 to 64 Years,30,117,157,Medicine ICU
+1001493,Staphylococcus aureus,Male,19 to 64 Years,55,112,157,Medicine General
+1001494,Staphylococcus aureus,Male,13 to 18 Years,15,63,164,Medicine General
+1001495,Staphylococcus aureus,Female,85 and Over,88,81,186,Medicine General
+1001496,Staphylococcus aureus,Female,65 to 84 Years,66,107,184,Clinic / Office
+1001497,Staphylococcus aureus,Male,3 to 12 Years,11,33,134,None Given
+1001498,Staphylococcus aureus,Female,19 to 64 Years,49,76,187,Surgery General
+1001499,Staphylococcus aureus,,19 to 64 Years,19,62,152,None Given
+1001500,Staphylococcus aureus,Male,19 to 64 Years,30,108,163,None Given
+1001501,Staphylococcus aureus,Male,85 and Over,87,52,158,Clinic / Office
+1001502,Enterococcus faecalis,Female,19 to 64 Years,31,88,192,Surgery ICU
+1001503,Enterococcus faecium,Male,19 to 64 Years,28,64,169,Medicine ICU
+1001504,Enterococcus faecalis,Male,19 to 64 Years,23,47,171,Medicine General
+1001505,Enterococcus faecalis,Female,65 to 84 Years,84,116,168,Emergency Room
+1001506,Acinetobacter baumannii,Male,19 to 64 Years,64,58,183,Surgery ICU
+1001507,Acinetobacter baumannii,Female,19 to 64 Years,55,118,196,Surgery General
+1001508,Acinetobacter baumannii,Female,19 to 64 Years,39,61,176,Surgery ICU
+1001509,Acinetobacter baumannii,Male,19 to 64 Years,34,91,162,Surgery ICU
+1001510,Acinetobacter baumannii,Male,65 to 84 Years,73,101,191,Surgery General
+1001511,Acinetobacter baumannii,Female,19 to 64 Years,61,92,174,Surgery ICU
+1001512,Stenotrophomonas maltophilia,Male,19 to 64 Years,25,95,166,Surgery General
+1001513,Acinetobacter baumannii,Female,19 to 64 Years,28,81,170,Emergency Room
+1001514,Acinetobacter baumannii,,19 to 64 Years,60,46,189,Surgery ICU
+1001515,Acinetobacter baumannii,Male,19 to 64 Years,35,114,173,Surgery ICU
+1001516,Acinetobacter baumannii,Female,19 to 64 Years,45,110,193,Medicine General
+1001517,Acinetobacter baumannii,Male,19 to 64 Years,45,80,156,Medicine ICU
+1001518,Escherichia coli,Male,19 to 64 Years,59,57,172,Clinic / Office
+1001519,Escherichia coli,Female,19 to 64 Years,33,85,170,Surgery General
+1001520,Escherichia coli,Male,65 to 84 Years,77,116,174,Medicine ICU
+1001521,Escherichia coli,Male,19 to 64 Years,49,107,178,Surgery ICU
+1001522,Escherichia coli,Male,19 to 64 Years,51,107,196,Surgery ICU
+1001523,Escherichia coli,Female,65 to 84 Years,84,112,176,Surgery ICU
+1001524,Escherichia coli,Male,65 to 84 Years,77,114,187,Medicine General
+1001525,Escherichia coli,Male,19 to 64 Years,26,93,187,Surgery ICU
+1001526,Escherichia coli,Male,65 to 84 Years,75,73,183,Medicine General
+1001527,Escherichia coli,Female,19 to 64 Years,57,51,172,Medicine General
+1001528,Escherichia coli,Male,19 to 64 Years,28,49,156,Medicine General
+1001529,Enterobacter asburiae,Female,19 to 64 Years,56,53,167,Medicine ICU
+1001530,Enterobacter cloacae,Male,65 to 84 Years,83,72,186,Medicine ICU
+1001531,Enterobacter cloacae,Male,19 to 64 Years,63,74,160,Medicine ICU
+1001532,Enterobacter cloacae,Male,19 to 64 Years,20,82,188,Surgery General
+1001533,Enterobacter cloacae,Male,65 to 84 Years,81,119,175,Medicine ICU
+1001534,Klebsiella (Enterobacter) aerogenes,Female,19 to 64 Years,20,67,184,Medicine ICU
+1001535,Lelliottia amnigenus,Male,65 to 84 Years,81,97,157,Medicine ICU
+1001536,Klebsiella (Enterobacter) aerogenes,Female,19 to 64 Years,40,67,168,Medicine ICU
+1001537,Klebsiella (Enterobacter) aerogenes,Male,19 to 64 Years,54,87,175,Medicine ICU
+1001538,Klebsiella (Enterobacter) aerogenes,Male,65 to 84 Years,77,113,157,Medicine ICU
+1001539,Enterobacter cloacae,Male,19 to 64 Years,46,117,176,Medicine ICU
+1001540,Enterobacter cloacae,Male,65 to 84 Years,72,69,180,Medicine ICU
+1001541,Enterobacter cloacae,Female,19 to 64 Years,61,120,176,Medicine ICU
+1001542,Enterobacter cloacae,Female,65 to 84 Years,78,64,164,Medicine ICU
+1001543,Enterobacter cloacae,Male,19 to 64 Years,22,68,192,Medicine ICU
+1001544,Klebsiella (Enterobacter) aerogenes,Female,19 to 64 Years,62,96,190,Medicine ICU
+1001545,Enterobacter cloacae,Male,85 and Over,90,82,193,Medicine ICU
+1001546,Enterobacter cloacae,Female,19 to 64 Years,52,89,171,Clinic / Office
+1001547,Enterobacter cloacae,Male,19 to 64 Years,35,82,194,Medicine ICU
+1001548,Enterobacter cloacae,Female,19 to 64 Years,30,101,199,Medicine ICU
+1001549,Enterobacter cloacae,Male,65 to 84 Years,74,88,161,Surgery General
+1001550,Pseudomonas aeruginosa,Male,65 to 84 Years,71,107,193,None Given
+1001551,Pseudomonas aeruginosa,Female,19 to 64 Years,33,62,179,Emergency Room
+1001552,Pseudomonas aeruginosa,Male,19 to 64 Years,19,73,184,Emergency Room
+1001553,Pseudomonas aeruginosa,Female,3 to 12 Years,6,37,147,Pediatric General
+1001554,Stenotrophomonas maltophilia,Male,19 to 64 Years,40,111,154,Surgery General
+1001555,Pseudomonas aeruginosa,Male,19 to 64 Years,31,118,189,Medicine General
+1001556,Pseudomonas aeruginosa,Female,65 to 84 Years,71,101,171,Medicine General
+1001557,Pseudomonas aeruginosa,Male,19 to 64 Years,25,57,154,Surgery General
+1001558,Pseudomonas aeruginosa,Female,19 to 64 Years,20,65,180,Medicine ICU
+1001559,Pseudomonas aeruginosa,Male,19 to 64 Years,30,117,157,None Given
+1001560,Pseudomonas aeruginosa,Female,65 to 84 Years,74,81,150,Emergency Room
+1001561,Pseudomonas aeruginosa,Female,19 to 64 Years,54,82,195,Surgery ICU
+1001562,Pseudomonas aeruginosa,Male,19 to 64 Years,30,91,162,Medicine General
+1001563,Pseudomonas aeruginosa,Female,3 to 12 Years,7,34,114,Pediatric ICU
+1001564,Serratia marcescens,Female,19 to 64 Years,35,98,185,None Given
+1001565,Serratia marcescens,Male,19 to 64 Years,56,106,182,Emergency Room
+1001566,Serratia marcescens,Female,65 to 84 Years,71,102,157,Medicine ICU
+1001567,Serratia marcescens,Male,65 to 84 Years,77,117,187,Surgery General
+1001568,Serratia marcescens,Female,19 to 64 Years,58,98,161,Medicine General
+1001569,Serratia marcescens,Male,19 to 64 Years,59,77,181,Medicine General
+1001570,Serratia marcescens,Male,19 to 64 Years,26,91,182,Medicine ICU
+1001571,Serratia marcescens,Female,3 to 12 Years,4,38,127,Pediatric ICU
+1001572,Serratia marcescens,Male,65 to 84 Years,81,68,155,None Given
+1001573,Serratia marcescens,Female,19 to 64 Years,47,116,176,Surgery General
+1001574,Klebsiella oxytoca,Male,65 to 84 Years,81,82,161,Surgery ICU
+1001575,Klebsiella pneumoniae,Male,19 to 64 Years,20,79,185,Surgery General
+1001576,Klebsiella pneumoniae,Female,65 to 84 Years,76,54,169,None Given
+1001577,Klebsiella pneumoniae,Male,65 to 84 Years,75,46,188,Emergency Room
+1001578,Klebsiella pneumoniae,Female,19 to 64 Years,25,98,154,Medicine ICU
+1001579,Klebsiella pneumoniae,Female,19 to 64 Years,50,116,195,Surgery General
+1001580,Klebsiella pneumoniae,Male,19 to 64 Years,43,104,160,None Given
+1001581,Klebsiella pneumoniae,Male,65 to 84 Years,75,99,194,None Given
+1001582,Klebsiella pneumoniae,Female,19 to 64 Years,63,75,192,Surgery General
+1001583,Klebsiella pneumoniae,Male,65 to 84 Years,76,113,187,Surgery General
+1001584,Klebsiella pneumoniae,Female,19 to 64 Years,21,113,188,Medicine General
+1001585,Klebsiella pneumoniae,Female,19 to 64 Years,56,68,152,Medicine ICU
+1001586,Klebsiella pneumoniae,Female,65 to 84 Years,81,67,159,Emergency Room
+1001587,Klebsiella pneumoniae,Male,19 to 64 Years,23,62,195,Medicine General
+1001588,Klebsiella pneumoniae,Male,3 to 12 Years,10,38,146,Pediatric ICU
+1001589,Klebsiella pneumoniae,Male,19 to 64 Years,19,56,154,None Given
+1001590,Enterobacter cloacae,Female,19 to 64 Years,22,50,199,Medicine ICU
+1001591,Streptococcus pneumoniae,Male,19 to 64 Years,36,83,178,Medicine General
+1001594,Streptococcus pneumoniae,Female,19 to 64 Years,30,111,195,Medicine General
+1001595,Streptococcus pneumoniae,Male,19 to 64 Years,49,82,187,Medicine General
+1001596,Streptococcus pneumoniae,Male,19 to 64 Years,61,74,200,Medicine General
+1001601,Streptococcus pneumoniae,Female,65 to 84 Years,81,96,195,Medicine General
+1001602,Streptococcus pneumoniae,Female,19 to 64 Years,27,118,162,Medicine General
+1001603,Streptococcus pneumoniae,Male,19 to 64 Years,24,57,191,Medicine General
+1001604,Streptococcus pneumoniae,Female,19 to 64 Years,58,78,180,Medicine General
+1001606,Enterococcus faecalis,Female,19 to 64 Years,47,54,165,Surgery General
+1001607,Enterococcus faecalis,Male,19 to 64 Years,64,95,171,Surgery General
+1001608,Enterococcus faecalis,Female,19 to 64 Years,62,52,195,Medicine ICU
+1001609,Enterococcus faecalis,Male,19 to 64 Years,64,117,191,Surgery General
+1001610,Enterococcus faecalis,Male,19 to 64 Years,20,110,191,Surgery General
+1001611,Enterococcus faecalis,Female,19 to 64 Years,44,80,186,None Given
+1001613,Enterococcus faecalis,Male,19 to 64 Years,27,113,169,None Given
+1001614,Enterococcus faecalis,Male,85 and Over,92,101,165,None Given
+1001615,Enterococcus faecalis,Male,65 to 84 Years,75,54,181,Medicine General
+1001616,Enterococcus faecium,,65 to 84 Years,79,116,189,Surgery General
+1001617,Streptococcus agalactiae,Female,19 to 64 Years,22,114,185,None Given
+1001618,Streptococcus agalactiae,Female,19 to 64 Years,42,120,179,None Given
+1001619,Streptococcus agalactiae,Female,19 to 64 Years,35,116,168,Medicine General
+1001620,Streptococcus agalactiae,Female,19 to 64 Years,29,96,170,None Given
+1001621,Enterococcus faecalis,Female,19 to 64 Years,23,55,200,Medicine General
+1001622,Streptococcus agalactiae,Female,19 to 64 Years,54,72,191,Medicine General
+1001623,Streptococcus agalactiae,Female,19 to 64 Years,51,50,181,None Given
+1001624,Streptococcus agalactiae,Female,19 to 64 Years,47,46,192,None Given
+1001625,Streptococcus agalactiae,Female,19 to 64 Years,26,104,163,None Given
+1001626,Streptococcus agalactiae,Female,19 to 64 Years,59,115,192,None Given
+1001628,Haemophilus influenzae,Male,19 to 64 Years,25,78,173,Medicine General
+1001662,Escherichia coli,Female,65 to 84 Years,81,82,196,Surgery General
+1001663,Escherichia coli,Female,65 to 84 Years,68,74,169,Medicine General
+1001664,Escherichia coli,Female,65 to 84 Years,75,50,165,Medicine General
+1001665,Escherichia coli,Female,3 to 12 Years,8,22,122,Pediatric ICU
+1001666,Escherichia coli,Female,19 to 64 Years,38,90,200,Medicine General
+1001667,Escherichia coli,Male,19 to 64 Years,44,113,184,Surgery General
+1001668,Escherichia coli,Male,65 to 84 Years,74,99,177,Medicine General
+1001669,Escherichia coli,Female,19 to 64 Years,42,96,155,Medicine General
+1001670,Escherichia coli,Female,65 to 84 Years,81,111,176,Medicine General
+1001671,Escherichia coli,Female,19 to 64 Years,46,63,189,Medicine General
+1001672,Escherichia coli,Female,85 and Over,90,111,155,Medicine General
+1001673,Escherichia coli,Male,19 to 64 Years,49,45,157,Medicine General
+1001674,Escherichia coli,Female,19 to 64 Years,30,50,177,Medicine General
+1001675,Escherichia coli,Male,0 to 2 Years,1,10,88,Pediatric General
+1001676,Escherichia coli,Male,65 to 84 Years,78,114,177,Surgery General
+1001677,Escherichia coli,Female,65 to 84 Years,69,77,187,Medicine ICU
+1001678,Escherichia coli,Male,19 to 64 Years,39,86,177,Medicine General
+1001679,Escherichia coli,Male,19 to 64 Years,44,70,164,Surgery ICU
+1001680,Escherichia coli,Female,65 to 84 Years,77,72,173,Medicine General
+1001681,Escherichia coli,Male,19 to 64 Years,57,109,170,Medicine General
+1001682,Escherichia coli,Female,65 to 84 Years,68,85,200,Medicine ICU
+1001683,Escherichia coli,Male,19 to 64 Years,31,98,155,Surgery General
+1001684,Escherichia coli,Male,19 to 64 Years,29,98,153,Medicine General
+1001685,Escherichia coli,Female,19 to 64 Years,47,87,159,Medicine General
+1001686,Escherichia coli,Female,65 to 84 Years,68,64,169,Surgery ICU
+1001687,Serratia marcescens,Female,65 to 84 Years,67,107,185,Medicine General
+1001688,Serratia marcescens,Male,0 to 2 Years,2,13,81,Pediatric ICU
+1001689,Serratia marcescens,Male,65 to 84 Years,77,83,180,Medicine ICU
+1001690,Serratia marcescens,Male,19 to 64 Years,31,96,197,Medicine General
+1001691,Serratia marcescens,Female,65 to 84 Years,79,87,164,Surgery ICU
+1001692,Serratia marcescens,Female,19 to 64 Years,33,62,172,Medicine General
+1001693,Serratia marcescens,Female,65 to 84 Years,80,53,195,Medicine General
+1001694,Serratia marcescens,Female,0 to 2 Years,2,12,83,Pediatric ICU
+1001695,Serratia marcescens,Male,19 to 64 Years,55,80,156,Medicine General
+1001696,Serratia marcescens,Male,19 to 64 Years,54,68,158,Surgery ICU
+1001697,Pseudomonas aeruginosa,Male,65 to 84 Years,74,59,199,Medicine General
+1001698,Pseudomonas aeruginosa,Female,19 to 64 Years,21,47,200,Medicine ICU
+1001699,Pseudomonas aeruginosa,Male,19 to 64 Years,51,51,153,Medicine General
+1001700,Pseudomonas aeruginosa,Female,19 to 64 Years,20,98,180,Medicine General
+1001701,Pseudomonas aeruginosa,Female,65 to 84 Years,77,78,173,Medicine General
+1001702,Pseudomonas aeruginosa,Male,65 to 84 Years,76,88,157,Surgery General
+1001703,Pseudomonas aeruginosa,Female,65 to 84 Years,71,88,159,Medicine General
+1001704,Pseudomonas aeruginosa,Female,13 to 18 Years,15,58,159,Medicine General
+1001705,Pseudomonas aeruginosa,Male,65 to 84 Years,70,96,195,Medicine General
+1001706,Pseudomonas aeruginosa,Male,19 to 64 Years,19,70,199,Medicine General
+1001707,Pseudomonas aeruginosa,Female,19 to 64 Years,46,59,193,Medicine General
+1001708,Pseudomonas aeruginosa,Female,19 to 64 Years,24,55,155,Surgery General
+1001709,Pseudomonas aeruginosa,Female,85 and Over,90,100,197,Medicine General
+1001710,Pseudomonas aeruginosa,Female,65 to 84 Years,71,75,195,Surgery General
+1001711,Pseudomonas aeruginosa,Male,65 to 84 Years,74,80,192,Medicine General
+1001712,Pseudomonas aeruginosa,Male,65 to 84 Years,76,81,182,Surgery General
+1001713,Pseudomonas aeruginosa,Male,19 to 64 Years,60,102,159,Medicine General
+1001714,Pseudomonas aeruginosa,Male,19 to 64 Years,46,78,166,Medicine General
+1001715,Pseudomonas aeruginosa,Female,19 to 64 Years,50,66,193,Medicine General
+1001716,Pseudomonas aeruginosa,Male,19 to 64 Years,50,64,195,Medicine General
+1001717,Enterobacter cloacae,Female,19 to 64 Years,35,59,159,Medicine General
+1001718,Enterobacter cloacae,Female,65 to 84 Years,70,83,185,Medicine General
+1001719,Enterobacter cloacae,Female,3 to 12 Years,9,16,117,Medicine General
+1001720,Enterobacter cloacae,Female,13 to 18 Years,17,66,165,Pediatric General
+1001721,Klebsiella (Enterobacter) aerogenes,Male,65 to 84 Years,74,45,156,Surgery General
+1001722,Enterobacter cloacae,Male,19 to 64 Years,63,82,153,Surgery General
+1001723,Enterobacter cloacae,Male,19 to 64 Years,53,93,185,Surgery General
+1001724,Enterobacter cloacae,Female,0 to 2 Years,2,12,87,Pediatric ICU
+1001725,Enterobacter kobei,Male,65 to 84 Years,70,120,174,Surgery General
+1001726,Enterobacter cloacae,Female,19 to 64 Years,45,89,160,Medicine General
+1001727,Enterobacter cloacae,Male,19 to 64 Years,25,117,196,Surgery General
+1001728,Klebsiella (Enterobacter) aerogenes,Male,19 to 64 Years,59,49,153,Surgery General
+1001729,Enterobacter cloacae,Female,65 to 84 Years,77,84,166,Medicine General
+1001730,Enterobacter asburiae,Female,65 to 84 Years,65,71,199,Medicine General
+1001731,Enterobacter cloacae,Female,19 to 64 Years,25,93,161,Medicine General
+1001732,Enterobacter cloacae,Female,19 to 64 Years,41,85,162,Medicine General
+1001733,Enterobacter cloacae,Male,19 to 64 Years,56,69,184,Surgery General
+1001734,Enterobacter cloacae,Male,65 to 84 Years,67,49,161,Medicine General
+1001736,Enterobacter cloacae,Male,19 to 64 Years,24,109,181,Medicine ICU
+1001737,Enterobacter cloacae,Female,19 to 64 Years,20,97,192,Medicine ICU
+1001738,Enterobacter cloacae,Female,19 to 64 Years,35,53,161,Medicine General
+1001739,Enterobacter cloacae,Female,19 to 64 Years,49,73,195,Medicine General
+1001740,Enterobacter cloacae,Male,65 to 84 Years,83,102,186,Surgery General
+1001742,Klebsiella (Enterobacter) aerogenes,Male,65 to 84 Years,66,76,171,Surgery General
+1001743,Klebsiella pneumoniae,Male,0 to 2 Years,2,10,83,Pediatric ICU
+1001744,Klebsiella oxytoca,Male,19 to 64 Years,31,92,192,Medicine ICU
+1001745,Klebsiella pneumoniae,Male,19 to 64 Years,61,102,199,Surgery ICU
+1001746,Klebsiella pneumoniae,Male,65 to 84 Years,78,79,157,Medicine General
+1001747,Klebsiella pneumoniae,Male,19 to 64 Years,27,65,192,Medicine General
+1001748,Klebsiella oxytoca,Male,65 to 84 Years,69,84,152,Surgery General
+1001749,Klebsiella pneumoniae,Female,19 to 64 Years,21,98,152,Medicine General
+1001750,Klebsiella oxytoca,Female,19 to 64 Years,19,81,182,Medicine General
+1001751,Klebsiella pneumoniae,Female,65 to 84 Years,71,83,198,Medicine General
+1001752,Klebsiella pneumoniae,Female,0 to 2 Years,2,11,79,Pediatric ICU
+1001753,Klebsiella pneumoniae,Male,65 to 84 Years,77,118,182,Surgery General
+1001754,Klebsiella oxytoca,Male,19 to 64 Years,57,75,162,Medicine General
+1001755,Klebsiella pneumoniae,Female,85 and Over,95,116,181,Surgery General
+1001756,Klebsiella oxytoca,Male,19 to 64 Years,39,89,186,Medicine General
+1001757,Klebsiella oxytoca,Male,0 to 2 Years,2,12,83,Pediatric ICU
+1001758,Klebsiella oxytoca,Male,19 to 64 Years,62,80,155,Medicine General
+1001759,Klebsiella pneumoniae,Male,19 to 64 Years,25,74,193,Medicine General
+1001760,Klebsiella oxytoca,Male,65 to 84 Years,79,69,191,Surgery General
+1001761,Klebsiella pneumoniae,Male,65 to 84 Years,72,81,169,Medicine ICU
+1001762,Klebsiella pneumoniae,Female,19 to 64 Years,35,112,185,Medicine ICU
+1001763,Klebsiella pneumoniae,Female,19 to 64 Years,29,101,191,Medicine General
+1001764,Klebsiella pneumoniae,Male,19 to 64 Years,23,85,152,Surgery General
+1001765,Klebsiella pneumoniae,Male,19 to 64 Years,60,80,168,Medicine ICU
+1001766,Klebsiella oxytoca,Male,65 to 84 Years,71,63,173,Surgery General
+1001767,Escherichia coli,Female,19 to 64 Years,39,117,197,Surgery ICU
+1001768,Acinetobacter calcoaceticus,Male,19 to 64 Years,21,117,182,Medicine ICU
+1001769,Acinetobacter baumannii,Male,3 to 12 Years,12,37,98,Pediatric General
+1001770,Acinetobacter pitii,Male,3 to 12 Years,8,20,112,Pediatric General
+1001771,Acinetobacter pitii,Female,3 to 12 Years,11,40,116,Pediatric General
+1001772,Klebsiella (Enterobacter) aerogenes,Male,65 to 84 Years,84,68,193,Medicine General
+1001773,Acinetobacter baumannii,Male,65 to 84 Years,75,62,159,Medicine ICU
+1001774,Acinetobacter baumannii,Male,19 to 64 Years,48,117,196,Medicine General
+1001775,Acinetobacter baumannii,Male,19 to 64 Years,37,62,178,Surgery General
+1001776,Acinetobacter baumannii,Female,0 to 2 Years,1,12,90,Pediatric General
+1001777,Acinetobacter lwoffii,Female,65 to 84 Years,65,60,155,Medicine General
+1001778,Acinetobacter baumannii,Male,19 to 64 Years,41,47,153,Medicine ICU
+1001779,Acinetobacter baumannii,Male,65 to 84 Years,75,51,151,Medicine General
+1001780,Acinetobacter pitii,Female,19 to 64 Years,39,111,162,Medicine General
+1001781,Acinetobacter pitii,Female,65 to 84 Years,65,73,172,Surgery General
+1001782,Acinetobacter pitii,Male,3 to 12 Years,8,30,100,Pediatric General
+1001783,Acinetobacter nosocomialis,Male,19 to 64 Years,37,115,162,Medicine General
+1001784,Staphylococcus aureus,Male,65 to 84 Years,84,82,171,Medicine General
+1001785,Staphylococcus aureus,Female,19 to 64 Years,61,112,156,Surgery General
+1001786,Staphylococcus aureus,Male,19 to 64 Years,62,88,181,Medicine General
+1001787,Staphylococcus aureus,Male,19 to 64 Years,38,113,168,Surgery General
+1001788,Staphylococcus aureus,Male,3 to 12 Years,9,38,98,Medicine General
+1001789,Staphylococcus aureus,Female,19 to 64 Years,22,57,196,Surgery General
+1001790,Staphylococcus aureus,Female,0 to 2 Years,2,12,90,Pediatric ICU
+1001791,Staphylococcus aureus,Male,19 to 64 Years,22,95,192,Medicine General
+1001792,Staphylococcus aureus,Female,65 to 84 Years,72,102,197,Medicine General
+1001793,Staphylococcus aureus,Male,19 to 64 Years,53,101,187,Medicine General
+1001794,Staphylococcus aureus,Male,19 to 64 Years,37,50,157,Medicine General
+1001795,Staphylococcus aureus,Female,65 to 84 Years,80,119,169,Medicine General
+1001796,Staphylococcus aureus,Male,85 and Over,89,114,184,Medicine General
+1001797,Staphylococcus aureus,Female,19 to 64 Years,49,69,158,Medicine ICU
+1001798,Staphylococcus aureus,Female,65 to 84 Years,67,49,199,Medicine General
+1001799,Staphylococcus aureus,Male,19 to 64 Years,30,102,175,Medicine General
+1001800,Staphylococcus aureus,Male,0 to 2 Years,2,12,82,None Given
+1001801,Staphylococcus aureus,Male,65 to 84 Years,79,100,195,Medicine ICU
+1001802,Staphylococcus aureus,Female,65 to 84 Years,78,113,173,Medicine ICU
+1001803,Staphylococcus aureus,Female,0 to 2 Years,1,10,88,Pediatric ICU
+1001804,Staphylococcus aureus,Female,19 to 64 Years,28,51,197,Medicine General
+1001805,Staphylococcus aureus,Female,65 to 84 Years,77,87,196,Medicine ICU
+1001806,Staphylococcus aureus,Female,19 to 64 Years,25,95,190,Medicine ICU
+1001807,Staphylococcus aureus,Male,19 to 64 Years,50,118,198,Medicine General
+1001808,Enterococcus faecium,Male,65 to 84 Years,81,116,190,Surgery General
+1001809,Enterococcus faecalis,Female,19 to 64 Years,34,112,151,Surgery General
+1001810,Enterococcus faecium,Male,19 to 64 Years,64,83,171,Medicine General
+1001811,Enterococcus faecium,Male,65 to 84 Years,67,108,154,Medicine General
+1001812,Enterococcus faecalis,Male,65 to 84 Years,82,95,189,Surgery General
+1001814,Enterococcus faecalis,Female,19 to 64 Years,50,86,195,Medicine ICU
+1001815,Enterococcus faecium,Female,65 to 84 Years,78,94,155,Surgery General
+1001816,Enterococcus faecium,Male,65 to 84 Years,75,47,158,Medicine General
+1001817,Enterococcus faecium,Female,19 to 64 Years,34,77,194,Surgery General
+1001818,Enterococcus faecium,Male,65 to 84 Years,74,117,181,Medicine ICU
+1001819,Enterococcus faecium,Female,19 to 64 Years,36,88,154,Medicine General
+1001820,Enterococcus faecium,Male,19 to 64 Years,58,76,184,Medicine General
+1001821,Enterococcus faecium,Male,65 to 84 Years,82,48,185,Medicine General
+1001822,Enterococcus faecium,Female,65 to 84 Years,69,60,150,Medicine General
+1001823,Enterococcus faecium,Female,19 to 64 Years,34,112,182,Surgery General
+1001824,Streptococcus agalactiae,Male,19 to 64 Years,25,53,197,Medicine General
+1001825,Streptococcus agalactiae,Female,19 to 64 Years,20,93,182,Medicine General
+1001826,Streptococcus agalactiae,Female,19 to 64 Years,50,64,170,Medicine General
+1001827,Streptococcus agalactiae,Male,3 to 12 Years,4,39,120,Pediatric ICU
+1001828,Streptococcus agalactiae,Female,19 to 64 Years,64,114,157,Medicine General
+1001829,Streptococcus agalactiae,Male,85 and Over,90,56,150,Surgery General
+1001830,Streptococcus agalactiae,Male,,,,,Pediatric ICU
+1001831,Streptococcus agalactiae,Male,65 to 84 Years,79,60,197,Medicine General
+1001832,Streptococcus agalactiae,Female,19 to 64 Years,39,66,156,Medicine General
+1001833,Streptococcus agalactiae,Female,19 to 64 Years,35,53,180,Medicine General
+1001834,Streptococcus pneumoniae,Male,19 to 64 Years,22,110,160,Surgery General
+1001836,Streptococcus pneumoniae,Female,65 to 84 Years,83,91,185,Medicine General
+1001837,Streptococcus pneumoniae,Female,19 to 64 Years,20,59,174,Medicine General
+1001838,Streptococcus pneumoniae,Male,3 to 12 Years,8,25,104,Pediatric General
+1001841,Streptococcus pneumoniae,Male,0 to 2 Years,1,13,85,Pediatric ICU
+1001843,Streptococcus pneumoniae,Male,19 to 64 Years,59,115,152,Medicine General
+1001846,Streptococcus pneumoniae,Male,85 and Over,90,66,168,Medicine General
+1001847,Streptococcus pneumoniae,Male,19 to 64 Years,36,112,150,Medicine General
+1001848,Streptococcus pneumoniae,Male,19 to 64 Years,58,102,171,Pediatric General
+1001849,Haemophilus influenzae,Female,19 to 64 Years,39,100,167,Medicine General
+1001850,Haemophilus influenzae,Female,19 to 64 Years,61,113,169,Medicine General
+1001851,Haemophilus influenzae,Male,13 to 18 Years,15,47,169,Pediatric General
+1001853,Haemophilus influenzae,Female,0 to 2 Years,1,12,89,Pediatric General
+1001854,Haemophilus influenzae,Female,19 to 64 Years,52,70,185,Medicine General
+1001855,Haemophilus influenzae,Male,3 to 12 Years,10,31,98,Pediatric General
+1001856,Haemophilus influenzae,Female,0 to 2 Years,1,12,90,Pediatric General
+1001857,Haemophilus influenzae,Female,19 to 64 Years,41,106,174,Medicine General
+1001859,Haemophilus influenzae,Male,19 to 64 Years,19,120,190,Medicine ICU
+1001860,Haemophilus influenzae,Female,19 to 64 Years,64,90,161,Medicine General
+1001861,Haemophilus influenzae,Female,19 to 64 Years,41,93,190,Medicine General
+1001862,Haemophilus influenzae,Male,65 to 84 Years,83,47,175,Medicine ICU
+1001863,Haemophilus influenzae,Female,19 to 64 Years,55,67,157,Medicine General
+1001864,Enterobacter kobei,Female,65 to 84 Years,79,102,170,Surgery General
+1001866,Haemophilus influenzae,Male,19 to 64 Years,46,63,200,Medicine ICU
+1001882,Staphylococcus aureus,Male,19 to 64 Years,44,110,159,Clinic / Office
+1001883,Staphylococcus aureus,Female,19 to 64 Years,32,66,163,Emergency Room
+1001884,Staphylococcus aureus,Male,19 to 64 Years,44,84,198,Clinic / Office
+1001885,Staphylococcus aureus,Male,19 to 64 Years,44,77,169,Clinic / Office
+1001886,Staphylococcus aureus,Male,3 to 12 Years,7,34,105,Clinic / Office
+1001887,Staphylococcus aureus,Female,85 and Over,94,107,190,Clinic / Office
+1001888,Staphylococcus aureus,Female,65 to 84 Years,65,105,192,Clinic / Office
+1001889,Staphylococcus aureus,Female,19 to 64 Years,61,100,187,Clinic / Office
+1001890,Staphylococcus aureus,Female,85 and Over,86,118,150,Emergency Room
+1001891,Staphylococcus aureus,Male,19 to 64 Years,58,76,160,Emergency Room
+1001892,Staphylococcus aureus,Female,19 to 64 Years,27,72,189,Emergency Room
+1001893,Staphylococcus aureus,Female,0 to 2 Years,2,10,88,Clinic / Office
+1001894,Staphylococcus aureus,Male,65 to 84 Years,69,53,182,Clinic / Office
+1001895,Staphylococcus aureus,Female,3 to 12 Years,6,20,150,Emergency Room
+1001896,Staphylococcus aureus,Female,19 to 64 Years,48,54,185,Emergency Room
+1001897,Staphylococcus aureus,Female,19 to 64 Years,39,119,169,Clinic / Office
+1001898,Staphylococcus aureus,Male,65 to 84 Years,68,100,185,Medicine General
+1001899,Staphylococcus aureus,Female,19 to 64 Years,35,82,188,Clinic / Office
+1001900,Staphylococcus aureus,Female,85 and Over,95,118,159,Clinic / Office
+1001901,Staphylococcus aureus,Male,19 to 64 Years,41,54,196,Clinic / Office
+1001902,Staphylococcus aureus,Female,65 to 84 Years,80,52,191,Emergency Room
+1001903,Staphylococcus aureus,Male,65 to 84 Years,81,85,155,Clinic / Office
+1001904,Staphylococcus aureus,Female,19 to 64 Years,35,85,185,Medicine General
+1001905,Staphylococcus aureus,Male,65 to 84 Years,66,76,166,Medicine ICU
+1001906,Staphylococcus aureus,Female,65 to 84 Years,82,120,185,Clinic / Office
+1001907,Pseudomonas aeruginosa,Female,65 to 84 Years,78,53,185,Emergency Room
+1001908,Pseudomonas aeruginosa,Female,19 to 64 Years,21,92,175,Emergency Room
+1001909,Pseudomonas aeruginosa,Male,19 to 64 Years,25,85,200,Medicine ICU
+1001910,Pseudomonas aeruginosa,Male,19 to 64 Years,28,70,172,Clinic / Office
+1001911,Pseudomonas aeruginosa,Female,65 to 84 Years,71,110,190,Emergency Room
+1001912,Pseudomonas aeruginosa,Female,19 to 64 Years,37,58,152,Clinic / Office
+1001913,Pseudomonas aeruginosa,Male,85 and Over,92,80,199,Medicine General
+1001914,Pseudomonas aeruginosa,Male,19 to 64 Years,47,106,187,Clinic / Office
+1001915,Pseudomonas aeruginosa,Female,0 to 2 Years,2,13,82,Clinic / Office
+1001916,Pseudomonas aeruginosa,Female,65 to 84 Years,80,52,158,Clinic / Office
+1001917,Pseudomonas aeruginosa,Male,19 to 64 Years,58,83,194,Clinic / Office
+1001918,Pseudomonas aeruginosa,Female,19 to 64 Years,54,78,150,Medicine General
+1001919,Pseudomonas aeruginosa,Female,19 to 64 Years,37,103,182,Medicine General
+1001920,Pseudomonas aeruginosa,Male,65 to 84 Years,66,115,170,Clinic / Office
+1001921,Pseudomonas aeruginosa,Male,19 to 64 Years,62,114,158,Clinic / Office
+1001922,Pseudomonas aeruginosa,Male,19 to 64 Years,24,90,163,Medicine General
+1001923,Pseudomonas aeruginosa,Male,65 to 84 Years,65,62,198,Clinic / Office
+1001924,Pseudomonas aeruginosa,Female,85 and Over,95,111,172,Clinic / Office
+1001925,Pseudomonas aeruginosa,Male,65 to 84 Years,81,84,185,Emergency Room
+1001926,Pseudomonas aeruginosa,Male,19 to 64 Years,29,79,180,Clinic / Office
+1001927,Klebsiella pneumoniae,Female,19 to 64 Years,61,75,180,Clinic / Office
+1001928,Klebsiella pneumoniae,Female,65 to 84 Years,84,65,154,Medicine ICU
+1001929,Klebsiella pneumoniae,Male,19 to 64 Years,31,67,188,Medicine ICU
+1001930,Klebsiella pneumoniae,Female,85 and Over,93,119,193,Clinic / Office
+1001931,Klebsiella oxytoca,Male,85 and Over,91,74,151,Medicine General
+1001932,Klebsiella pneumoniae,Male,65 to 84 Years,72,54,160,Clinic / Office
+1001933,Klebsiella oxytoca,Male,65 to 84 Years,67,101,170,Clinic / Office
+1001934,Klebsiella oxytoca,Male,19 to 64 Years,23,59,170,Clinic / Office
+1001935,Klebsiella pneumoniae,Female,65 to 84 Years,69,91,187,Medicine General
+1001936,Klebsiella pneumoniae,Female,19 to 64 Years,23,50,179,Medicine General
+1001937,Klebsiella oxytoca,Male,65 to 84 Years,76,94,185,Clinic / Office
+1001938,Klebsiella pneumoniae,Male,19 to 64 Years,36,77,155,Emergency Room
+1001939,Klebsiella oxytoca,Male,65 to 84 Years,80,66,186,Medicine ICU
+1001940,Klebsiella pneumoniae,Male,65 to 84 Years,83,91,187,Emergency Room
+1001941,Klebsiella pneumoniae,Male,19 to 64 Years,49,46,168,Clinic / Office
+1001942,Klebsiella pneumoniae,Male,19 to 64 Years,59,60,153,Medicine ICU
+1001943,Klebsiella oxytoca,Male,65 to 84 Years,78,48,183,Clinic / Office
+1001944,Klebsiella pneumoniae,Male,65 to 84 Years,70,101,160,Medicine General
+1001945,Klebsiella pneumoniae,Male,65 to 84 Years,68,93,154,Medicine General
+1001946,Klebsiella pneumoniae,Male,19 to 64 Years,35,71,168,Medicine ICU
+1001947,Klebsiella pneumoniae,Male,19 to 64 Years,39,71,176,Medicine General
+1001948,Klebsiella pneumoniae,Male,65 to 84 Years,65,82,156,Emergency Room
+1001949,Klebsiella pneumoniae,Male,19 to 64 Years,32,94,190,Medicine General
+1001950,Klebsiella pneumoniae,Female,65 to 84 Years,70,117,150,Medicine ICU
+1001951,Klebsiella pneumoniae,Male,19 to 64 Years,45,103,194,Emergency Room
+1001952,Streptococcus pneumoniae,Male,19 to 64 Years,20,55,155,Emergency Room
+1001953,Streptococcus pneumoniae,Male,19 to 64 Years,46,88,199,Emergency Room
+1001957,Streptococcus pneumoniae,Female,65 to 84 Years,66,119,156,Emergency Room
+1001958,Streptococcus pneumoniae,Female,65 to 84 Years,72,109,185,Emergency Room
+1001960,Streptococcus pneumoniae,Male,65 to 84 Years,69,66,159,Clinic / Office
+1001964,Streptococcus pneumoniae,Male,65 to 84 Years,80,94,164,Clinic / Office
+1001965,Streptococcus pneumoniae,Male,19 to 64 Years,56,47,194,Clinic / Office
+1001966,Streptococcus pneumoniae,Male,19 to 64 Years,45,56,194,Medicine ICU
+1001967,"Enterococcus, non-speciated",Female,19 to 64 Years,58,61,155,Emergency Room
+1001968,"Enterococcus, non-speciated",Female,65 to 84 Years,81,67,194,Clinic / Office
+1001969,"Enterococcus, non-speciated",Female,19 to 64 Years,64,61,162,Clinic / Office
+1001970,"Enterococcus, non-speciated",Female,65 to 84 Years,68,47,192,Clinic / Office
+1001971,"Enterococcus, non-speciated",Female,0 to 2 Years,2,11,89,Clinic / Office
+1001972,"Enterococcus, non-speciated",Female,65 to 84 Years,80,67,194,Clinic / Office
+1001973,"Enterococcus, non-speciated",Female,85 and Over,86,49,155,Emergency Room
+1001974,"Enterococcus, non-speciated",Female,19 to 64 Years,52,92,184,Clinic / Office
+1001975,"Enterococcus, non-speciated",Female,19 to 64 Years,25,76,170,Medicine General
+1001976,Enterococcus faecium,Male,19 to 64 Years,25,91,169,Medicine General
+1001977,Enterococcus faecium,Male,85 and Over,94,110,172,Medicine ICU

@@ -1,0 +1,63 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="OgTwACi1nB9zq1KiFCIg">
+    <mxGraphModel dx="707" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hpSGrWBI692OztvA3Mox-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="hpSGrWBI692OztvA3Mox-1" target="hpSGrWBI692OztvA3Mox-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-5" value="Проверка типов&lt;div&gt;Нормализация переменных&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpSGrWBI692OztvA3Mox-4">
+          <mxGeometry x="-0.5452" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-1" value="Исходные (&quot;сырые&quot;) данные" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="hpSGrWBI692OztvA3Mox-2" target="hpSGrWBI692OztvA3Mox-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-7" value="Исправление и дополнение&lt;div&gt;Создание новых переменных&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpSGrWBI692OztvA3Mox-6">
+          <mxGeometry x="-0.7071" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-2" value="Корректные&amp;nbsp;&lt;div&gt;данные&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="hpSGrWBI692OztvA3Mox-3" target="hpSGrWBI692OztvA3Mox-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-10" value="Оценка, анализ,&amp;nbsp;&lt;div&gt;поиск зависимостей&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpSGrWBI692OztvA3Mox-9">
+          <mxGeometry x="0.6978" y="2" relative="1" as="geometry">
+            <mxPoint x="2" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-3" value="Консистентные&amp;nbsp; (&quot;чистые&quot;) данные" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="hpSGrWBI692OztvA3Mox-8" target="hpSGrWBI692OztvA3Mox-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-13" value="Оформление таблиц&amp;nbsp;&lt;div&gt;и графиков&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpSGrWBI692OztvA3Mox-12">
+          <mxGeometry x="0.7313" y="2" relative="1" as="geometry">
+            <mxPoint x="2" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-8" value="Статистические результаты" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-11" value="Публикация&amp;nbsp;&lt;div&gt;отчета&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hpSGrWBI692OztvA3Mox-15" value="ОЧИСТКА ДАННЫХ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
